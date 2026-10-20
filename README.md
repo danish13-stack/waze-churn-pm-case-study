@@ -104,4 +104,4 @@ Dormant users are the riskiest, but occasional long-haul users are the biggest s
 
 ---
 
-**Author:** [Your name] · [LinkedIn profile link]
+**Author:** Danish Khan · https://www.linkedin.com/in/danish-khan01/
