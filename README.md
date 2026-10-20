@@ -31,13 +31,13 @@ Waze is crowd-sourced: every active driver both uses the map and improves it wit
 ## 2. Key findings
 
 ### Driving frequency is the strongest churn signal
-![Churn rate by driving days](charts/01_churn_by_driving_days.png)
+![Churn rate by driving days](01_churn_by_driving_days.png)
 
 Churn falls steadily as driving days increase. The product question becomes *"how do we get users to open Waze on more days?"* rather than *"how do we win back users who already left?"*
 
 ### Where the risk is differs from where the volume is
 
-![Churn rate by segment](charts/03_churn_by_segment.png)
+![Churn rate by segment](03_churn_by_segment.png)
 
 | Segment | Definition | Share of users | Churn rate | Share of churners |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Churn falls steadily as driving days increase. The product question becomes *"ho
 Dormant users are the riskiest, but occasional long-haul users are the biggest share of the problem.
 
 ### A model helps, but only modestly at the decision point
-![Model comparison](charts/04_model_comparison.png)
+![Model comparison](04_model_comparison.png)
 
 | Model | PR-AUC | Users nudged to catch 70% of churners | Precision |
 |---|---|---|---|
